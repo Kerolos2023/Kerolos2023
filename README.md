@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me<br><br>Hey — I'm **Kerolos Saleh** 👋  <br>I build web apps  that make people's work easier. I enjoy learning new libraries, optimizing systems, and collaborating with teams.<br><br>**🔭 Currently working on**<br>- Frontend projects using React and TypeScript<br><br>**💡 Skills**<br>- Languages: JavaScript, TypeScript<br>- Frontend: React, TailwindCSS, responsive UI<br>- Tools: Git<br><br>**📫 Contact**<br>- Email: kerolossaleh25@gmail.com<br>- LinkedIn: www.linkedin.com/in/kerolos-saleh-398a71286<br><br>Feel free to explore my repos — PRs and feedback welcomed!<br>
+## About Me<br><br>Hey — I'm **Kerolos Saleh** 👋  <br>I build web apps  that make people's work easier. I enjoy learning new libraries, optimizing systems, and collaborating with teams.<br><br>**🔭 Currently working on**<br>- Frontend projects using Next JS and TypeScript<br><br>**💡 Skills**<br>- Languages: JavaScript, TypeScript<br>- Frontend: React, TailwindCSS, responsive UI<br>- Tools: Git<br><br>**📫 Contact**<br>- Email: kerolossaleh25@gmail.com<br>- LinkedIn: www.linkedin.com/in/kerolos-saleh-398a71286<br><br>Feel free to explore my repos — PRs and feedback welcomed!<br>
 
 
 ## 🌐 Socials:
